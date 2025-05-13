@@ -1,0 +1,33 @@
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.deps.json
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.dll
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.pdb
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfoInputs.cache
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfo.cs
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.csproj.CoreCompileInputs.cache
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.dll
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\refint\BolilleroNuevo.dll
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.pdb
+E:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\ref\BolilleroNuevo.dll
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.deps.json
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.dll
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.pdb
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfoInputs.cache
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfo.cs
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.csproj.CoreCompileInputs.cache
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.dll
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\refint\BolilleroNuevo.dll
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.pdb
+C:\Users\Aylen\Desktop\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\ref\BolilleroNuevo.dll
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.deps.json
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.dll
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\bin\Debug\net8.0\BolilleroNuevo.pdb
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfoInputs.cache
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.AssemblyInfo.cs
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.csproj.CoreCompileInputs.cache
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.dll
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\refint\BolilleroNuevo.dll
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\BolilleroNuevo.pdb
+D:\Aylen POO\BolilleroNuevo\BolilleroNuevo\obj\Debug\net8.0\ref\BolilleroNuevo.dll
